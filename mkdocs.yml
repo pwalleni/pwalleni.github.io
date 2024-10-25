@@ -1,0 +1,5 @@
+site_name: Pascal Wallenius
+site_url: https://pwalleni.github.io
+
+theme:
+  name: material
