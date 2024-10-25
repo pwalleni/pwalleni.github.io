@@ -1,10 +1,12 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Pascal Wallenius
 site_url: https://pwalleni.github.io
-edit_uri: blob/main/docs/
+repo_url: https://github.com/pwalleni/pwalleni.github.io
 
 theme:
   name: material
 
 plugins:
   - search
+  - tags:
+      tags_file: tags.md
